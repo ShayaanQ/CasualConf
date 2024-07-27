@@ -31,5 +31,4 @@ Usage:
 
 Deployment:
 
--
 - The application is deployed on Vercel. You can view it live at https://casualconf.vercel.app.
