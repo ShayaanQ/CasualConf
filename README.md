@@ -1,36 +1,35 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+CasualConf
 
-## Getting Started
+CasualConf is a feature-rich video conferencing application that replicates core functionalities of Zoom. Built with React, TypeScript, and TailwindCSS, it offers a seamless, interactive user experience for creating, scheduling, joining, and recording meetings.
 
-First, run the development server:
+Features:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- User Authentication: Secure login and account creation using Clerk.
+- Meeting Management: Create, schedule, and join meetings with ease.
+- Recording: Record meetings for later reference.
+- Meeting Links: Easily share and manage meeting links.
+- Upcoming/Previous Meetings: View and manage your upcoming and past meetings.
+- Personal Rooms: Create and manage your personal video rooms.
+- Interactive UI: Highly interactive and visually appealing interface designed with TailwindCSS and Shadcn components.
+- Deployment: Deployed on Vercel for reliable and scalable performance.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Technologies Used:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Frontend: React, TypeScript, TailwindCSS
+- Authentication: Clerk
+- UI Components: Shadcn
+- APIs: GetStream API
+- Deployment: Vercel
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Usage:
 
-## Learn More
+- Sign up or log in using Clerk authentication.
+- Create or join a meeting.
+- Schedule upcoming meetings and view your meeting history.
+- Record meetings and manage personal rooms.
+- Share meeting links with participants.
 
-To learn more about Next.js, take a look at the following resources:
+Deployment:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+-
+- The application is deployed on Vercel. You can view it live at https://casualconf.vercel.app.
