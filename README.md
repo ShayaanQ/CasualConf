@@ -1,6 +1,6 @@
 CasualConf
 
-CasualConf is a feature-rich video conferencing application that replicates core functionalities of Zoom. Built with React, TypeScript, and TailwindCSS, it offers a seamless, interactive user experience for creating, scheduling, joining, and recording meetings.
+A feature-rich video conferencing application that replicates core functionalities of Zoom. Built with React, TypeScript, and TailwindCSS, it offers a seamless, interactive user experience for creating, scheduling, joining, and recording meetings.
 
 Features:
 
